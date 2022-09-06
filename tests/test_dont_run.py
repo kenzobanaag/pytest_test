@@ -1,4 +1,4 @@
 
 
 def test_dont_run():
-    assert 1 == 0
+    assert 1 == 1
