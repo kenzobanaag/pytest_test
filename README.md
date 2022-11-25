@@ -9,3 +9,7 @@ python -m virtualenv venv --python=python3.7
 
 # Add requirements.txt, should issue command on cmd with (venv)
 pip freeze > requirements.txt
+
+# Dependencies
+pip install flask flask-sqlalchemy
+pip install marshmallow
